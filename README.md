@@ -1,5 +1,5 @@
 ### Hi there 👋
-<script src="https://tryhackme.com/badge/2416879"></script>
+
 <!--
 **mahbub140s/mahbub140s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
